@@ -13,7 +13,7 @@
 
 - 🎓 Master’s student in **Artificial Intelligence @ Boston University**
 - 🧠 Passionate about **Agentic AI**, **Generative AI**, **Audio Models**, and **Multimodal Systems**
-- 🎶 Building projects like **WatchIt**, **AlphaBeat**, **MusicGen-Mamba**, and **Sign-Language Translation**
+- 🎶 Building projects like **WatchIt**, **AlphaBeat**, and **Sign-Language Translation**
 - 🚊 Also exploring applied ML through **Transit Forecasting** and **Agentic Workflows**
 - ☕ Usually found between a research repo and a cup of coffee
 
