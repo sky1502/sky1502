@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Gagan 👋</h1>
-<h3 align="center">AI Researcher • Music Generation Enthusiast • Full-Stack Builder</h3>
+<h3 align="center">AI Researcher • Generative AI Enthusiast • Full-Stack Builder</h3>
 
 <p align="center">
   <a href="mailto:gagansinghal06@gmail.com"><img src="https://img.shields.io/badge/Email-gagansinghal06%40gmail.com-blue?style=flat&logo=gmail"></a>
@@ -12,10 +12,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Master’s student in **Artificial Intelligence @ Boston University**
-- 🧠 Passionate about **Generative AI**, **Audio Models**, and **Multimodal Systems**
-- 🎶 Building projects like **AlphaBeat**, **MusicGen-Mamba**, and **Sign-Language Translation**
+- 🧠 Passionate about **Agentic AI**, **Generative AI**, **Audio Models**, and **Multimodal Systems**
+- 🎶 Building projects like **WatchIt**, **AlphaBeat**, **MusicGen-Mamba**, and **Sign-Language Translation**
 - 🚊 Also exploring applied ML through **Transit Forecasting** and **Agentic Workflows**
-- 💬 Love turning papers into prototypes and ideas into production-ready systems
 - ☕ Usually found between a research repo and a cup of coffee
 
 ---
@@ -23,16 +22,16 @@
 ### 🚀 My Tech Stack
 
 #### 🔹 AI & ML
-`PyTorch` • `TensorFlow` • `HuggingFace` • `LangChain` • `Diffusion Models` • `State Space Models (Mamba)`  
+`PyTorch` • `TensorFlow` • `HuggingFace` • `LangChain` • `LangGraph` • `Diffusion Models`
 
 #### 🔹 Data & Backend
-`PostgreSQL` • `FastAPI` • `Docker` • `Streamlit` • `Pandas` • `NumPy`  
+`SQL` • `FastAPI` • `Streamlit` • `Pandas` • `NumPy` • `JavaScript` 
 
 #### 🔹 Tools & DevOps
-`Git` • `W&B` • `Linux` • `SCC Cluster (BU)` • `Conda` • `VS Code`  
+`Git` • `Linux` • `SCC Cluster (BU)` • `Conda` • `VS Code`  
 
 #### 🔹 Frontend
-`HTML` • `CSS` • `React` • `Canva` (for creative showcases)
+`HTML` • `CSS` • `React` • `Canva`
 
 ---
 
@@ -40,7 +39,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sky1502&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky1502&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,7 +78,7 @@
 ---
 
 ### 🧭 Fun Fact
-> “I see code as a kind of music — both have rhythm, structure, and moments of silence that make everything work.”
+> “I see code as some kind of music -> both have rhythm, structure, and moments of silence that make everything work.”
 
 ---
 
