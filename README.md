@@ -59,11 +59,11 @@
 
 | Project | Description | Tech |
 |:--------|:-------------|:-----|
-| [**AlphaBeat**](https://github.com/sky1502/AlphaBeat) | Hybrid Transformer-Diffusion pipeline for music generation improving semantic alignment (+0.35 CLAP) and fidelity (–6.55 FAD). | PyTorch, Diffusion, CLAP |
-| [**MusicGen-Mamba**](https://github.com/sky1502/MusicGen-Mamba) | Efficient long-context music generation replacing Transformers with Mamba SSMs. | PyTorch, SSMs, AudioGen |
-| [**Transit Analysis & Forecasting**](https://github.com/sky1502/Transit-Analysis) | ML-driven MBTA ridership forecasting & transit equity analysis. | XGBoost, Random Forest |
-| [**Sign Language Translation**](https://github.com/sky1502/Sign-Language-Translation) | Real-time gesture-to-text translation using DenseNet + LSTM. | CV, NLP, PyTorch |
-| [**Vendit (Agentic Simulator)**](https://github.com/sky1502/Vendit) | Multi-agent vending-machine simulation using LangGraph + Postgres Vector Memory. | LangGraph, Agents, SQL |
+| [**WatchIt**](https://github.com/SkyyLabs/WatchIt) | Local-first AI-driven parental monitoring system with an on-device LLM judge for contextual content filtering and real-time enforcement. | FastAPI, LangGraph, Ollama, Next.js |
+| [**AlphaBeat**](https://github.com/satyagalla/AlphaBeat) | Hybrid Transformer-Diffusion pipeline for music generation improving semantic alignment (+0.35 CLAP) and fidelity (–6.55 FAD). | PyTorch, Diffusion, CLAP |
+| [**Transit Analysis & Forecasting**](https://github.com/SkyyLabs/MBTA_Data_Analysis) | ML-driven MBTA ridership forecasting & transit equity analysis. | XGBoost, Random Forest |
+| [**Sign Language Translation**](https://github.com/SkyyLabs/WLASL_Experiments) | Real-time gesture-to-text translation using DenseNet + LSTM. | CV, NLP, PyTorch |
+| [**Vendit (Agentic Simulator)**](https://github.com/SkyyLabs/Vendit) | Multi-agent vending-machine simulation using LangGraph + Postgres Vector Memory. | LangGraph, Agents, SQL |
 
 ---
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="mailto:gagansinghal06@gmail.com"><img src="https://img.shields.io/badge/Email-gagansinghal06%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/gagan-singhal/"><img src="https://img.shields.io/badge/LinkedIn-Gagan_Singhal-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/gagansinghal06/"><img src="https://img.shields.io/badge/LinkedIn-Gagan_Singhal-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/sky1502"><img src="https://img.shields.io/badge/GitHub-sky1502-lightgrey?style=for-the-badge&logo=github"></a>
 </p>
 
